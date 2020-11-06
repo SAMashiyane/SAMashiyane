@@ -31,4 +31,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Salio
 - ⚡ Fun fact: There are many facts
 -->
-![stability_screenshot](https://github.com/SAMashiyane/PNU_3991_AR/blob/master/CertJS.png)
+
+<a href="url"><img src="https://github.com/SAMashiyane/PNU_3991_AR/blob/master/CertJS.png" align="left" height="48" width="48" ></a>
