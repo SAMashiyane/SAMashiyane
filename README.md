@@ -1,5 +1,7 @@
 ### Hi there 👋
 #### I work on
+### my CV https://samashiyane.github.io/
+
 <p>
   
   <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" />
