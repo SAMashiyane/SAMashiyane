@@ -33,4 +33,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: There are many facts
 -->
 
-<a href="url"><img src="https://github.com/SAMashiyane/PNU_3991_AR/blob/master/CertJS.png" align="left" height="142" width="200" ></a>
+<a href="https://github.com/SAMashiyane/PNU_3991_AR/blob/master/CertJS.png"><img src="https://github.com/SAMashiyane/PNU_3991_AR/blob/master/CertJS.png" align="left" height="142" width="200" ></a>
