@@ -1,5 +1,5 @@
 ### Hi there 👋
-### my CV https://samashiyane.github.io/
+### my CV:  https://samashiyane.github.io/
 #### I work on
 <p>
   
