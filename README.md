@@ -21,6 +21,7 @@
 
 <!--
 **SAMashiyane/SAMashiyane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+!/>
 
 Here are some ideas to get you started:
 
@@ -32,5 +33,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Salio
 - ⚡ Fun fact: There are many facts
 -->
-
+<!--
 <a href="https://github.com/SAMashiyane/PNU_3991_AR/blob/master/CertJS.png"><img src="https://github.com/SAMashiyane/PNU_3991_AR/blob/master/CertJS.png" align="left" height="142" width="200" ></a>
