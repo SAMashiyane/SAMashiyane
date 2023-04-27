@@ -5,7 +5,7 @@
   
   <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-django-092e20?logo=django&logoColor=white" />
-  <img alt="artificial intelligence" src="https://img.shields.io/badge/-AI-41b883?logo=AI.js&logoColor=white" />
+  <img alt="artificial intelligence" src="https://img.shields.io/badge/-artificial intelligence-41b883?logo=artificial intelligence.js&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?logo=Node.js&logoColor=white" />
