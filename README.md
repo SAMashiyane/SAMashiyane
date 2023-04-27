@@ -14,7 +14,7 @@
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white" />
   <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />
   <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-000?logo=gitlab&logoColor=61DBFB" />
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white">
+  <img alt="Markdown" src="https://img.shields.io/badge/Machine learning-000?logo=Machine learning&logoColor=white">
 </p>
 
 
